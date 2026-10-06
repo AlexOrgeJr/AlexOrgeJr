@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there! 👋
 
 I'm **[Xander](https://studio.alexorgejr.workers.dev)**, a creative developer and designer based in the Philippines.
 
